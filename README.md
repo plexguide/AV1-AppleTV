@@ -51,6 +51,8 @@ The location of where to put the script is where your plex data is stored and tr
 plex/Library/Application Support/Plex Media Server/Profiles/tvOS.xml
 ```
 
+Make sure to click the copy icon in the upper right so you have an exact copy of what to paste into the tvOS.xml
+
 #### tvOS.xml
 ```bash
 <?xml version="1.0" encoding="utf-8"?>
