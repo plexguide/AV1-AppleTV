@@ -1,5 +1,11 @@
 ##### WANT TO HELP? CLICK THE ★ (STAR LOGO) in the Upper-Right! 
 
+<p align="center">
+  <a href="https://avatars.githubusercontent.com/u/62731045?s=200&v=4">
+    <img src="https://avatars.githubusercontent.com/u/62731045?s=200&v=4" alt="Logo" style="border: 2px solid #000000; border-radius: 8px; width: 5%;">
+  </a>
+</p>
+
 # Quick Guide on Enabling Apple TV to Play AV1 Natievly 
 
 What the tvOS.xml profile does. You can see the Apple TV playing AV1 via direct stream, not transcoding from the server
@@ -10,11 +16,6 @@ What the tvOS.xml profile does. You can see the Apple TV playing AV1 via direct 
   </a>
 </p>
 
-<p align="center">
-  <a href="https://avatars.githubusercontent.com/u/62731045?s=200&v=4">
-    <img src="https://avatars.githubusercontent.com/u/62731045?s=200&v=4" alt="Logo" style="border: 2px solid #000000; border-radius: 8px; width: 10%;">
-  </a>
-</p>
 
 ## PlexGuide Information - About the Main Project (Unraid Script Info Below)
 
