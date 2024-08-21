@@ -2,6 +2,14 @@
 
 # Quick Guide on Enabling Apple TV to Play AV1 Natievly 
 
+What the tvOS.xml profile does. You can see the Apple TV playing AV1 via direct stream, not transcoding from the server
+
+<p align="center">
+  <a href="https://i.imgur.com/wPd1pgq.jpeg">
+    <img src="https://i.imgur.com/wPd1pgq.jpeg" alt="Logo" style="border: 2px solid #000000; border-radius: 8px; width: 10%;">
+  </a>
+</p>
+
 <p align="center">
   <a href="https://avatars.githubusercontent.com/u/62731045?s=200&v=4">
     <img src="https://avatars.githubusercontent.com/u/62731045?s=200&v=4" alt="Logo" style="border: 2px solid #000000; border-radius: 8px; width: 10%;">
@@ -32,10 +40,17 @@ sudo apt-get update -y && sudo apt-get install -y curl git && curl -o /tmp/insta
 
 ## NOTE
 
-I found this script somewhere random way back, but it warned that the current apple tv (most recent and prior are fine), but if you have the old apple tv's, AV1 may stutter. I have no verified this and would be helpful if someone post in dicussion their feedback in testing this script. It works fine for me.
+I found this script a while ago, and it mentioned that the current Apple TVs (including the most recent models and those just prior) should be fine. However, if you have an older Apple TV, AV1 playback may stutter. I haven't verified this, so it would be helpful if someone could share their feedback after testing the script. It works fine for me.
 
-## SCRIPT
+#### Location
 
+The location of where to put the script is where your plex data is stored and try to find the path until you get to Profiles as seen below. Copy the script and store it as tvOS.xml
+
+```bash
+plex/Library/Application Support/Plex Media Server/Profiles/tvOS.xml
+```
+
+#### tvOS.xml
 ```bash
 <?xml version="1.0" encoding="utf-8"?>
 <Client name="tvOS">
