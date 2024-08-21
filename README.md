@@ -18,7 +18,7 @@ What the tvOS.xml profile does. You can see the Apple TV playing AV1 via direct 
 
 
 ## PlexGuide Information - About the Main Project (AV1 Native Apple TV Script Below This)
-
+Visit PlexGuide Repo @ https://github.com/plexguide/PlexGuide.com
 ```bash
 sudo apt-get update -y && sudo apt-get install -y curl git && curl -o /tmp/install.sh https://raw.githubusercontent.com/plexguide/PlexGuide.com/v11/mods/install/install.sh && chmod +x /tmp/install.sh && /tmp/install.sh && chmod +x /pg/scripts/menu.sh && /pg/scripts/menu.sh
 ```
