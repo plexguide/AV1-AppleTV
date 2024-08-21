@@ -43,6 +43,8 @@ sudo apt-get update -y && sudo apt-get install -y curl git && curl -o /tmp/insta
 
 I found this script a while ago, and it mentioned that the current Apple TVs (including the most recent models and those just prior) should be fine. However, if you have an older Apple TV, AV1 playback may stutter. I haven't verified this, so it would be helpful if someone could share their feedback after testing the script. It works fine for me.
 
+How to deploy AV1 Transcoding and workflow info? Visit - https://github.com/plexguide/Unraid_Intel-ARC_Deployment
+
 #### Location
 
 The location of where to put the script is where your plex data is stored and try to find the path until you get to Profiles as seen below. Copy the script and store it as tvOS.xml
