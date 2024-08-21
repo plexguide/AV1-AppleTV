@@ -36,6 +36,7 @@ I found this script somewhere random way back, but it warned that the current ap
 
 ## SCRIPT
 
+```bash
 <?xml version="1.0" encoding="utf-8"?>
 <Client name="tvOS">
   <TranscodeTargets>
@@ -66,7 +67,7 @@ I found this script somewhere random way back, but it warned that the current ap
     </VideoAudioCodec>
   </CodecProfiles>
 </Client>
-
+```
 
 
 
