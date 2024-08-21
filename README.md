@@ -12,7 +12,7 @@ What the tvOS.xml profile does. You can see the Apple TV playing AV1 via direct 
 
 <p align="center">
   <a href="https://i.imgur.com/wPd1pgq.jpeg">
-    <img src="https://i.imgur.com/wPd1pgq.jpeg" alt="Logo" style="border: 2px solid #000000; border-radius: 8px; width: 10%;">
+    <img src="https://i.imgur.com/wPd1pgq.jpeg" alt="Logo" style="border: 2px solid #000000; border-radius: 8px; width: 40%;">
   </a>
 </p>
 
