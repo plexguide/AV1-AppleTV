@@ -20,7 +20,7 @@ What the tvOS.xml profile does. You can see the Apple TV playing AV1 via direct 
 ## PlexGuide Information - About the Main Project (AV1 Native Apple TV Script Below This)
 Visit PlexGuide Repo @ https://github.com/plexguide/PlexGuide.com
 ```bash
-sudo apt-get update && sudo apt-get install -y curl && bash <(curl -s https://raw.githubusercontent.com/plexguide/PlexGuide.com/v11/mods/scripts/install_menu.sh)
+sudo apt-get update && sudo apt-get install -y curl && bash <(curl -s https://raw.githubusercontent.com/plexguide/Installer/v11/install_menu.sh)
 ```
 
 * Simple, debloated, no fancy menus and executes for exactly what you need and works for Ubuntu 22 and Ubuntu 24 Server LTS
