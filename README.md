@@ -1,8 +1,8 @@
 ##### WANT TO HELP? CLICK THE ★ (STAR LOGO) in the Upper-Right! 
 
 <p align="left">
-  <a href="https://avatars.githubusercontent.com/u/62731045?s=200&v=4">
-    <img src="https://avatars.githubusercontent.com/u/62731045?s=200&v=4" alt="Logo" style="border: 2px solid #000000; border-radius: 8px; width: 8%;">
+  <a href="https://discord.gg/Uruj9Ds5">
+    <img src="https://i.imgur.com/XI1WGxi.png" alt="Menu Example" width="15%">
   </a>
 </p>
 
@@ -89,6 +89,10 @@ Make sure to click the copy icon in the upper right so you have an exact copy of
 </Client>
 ```
 
-
+<p align="left">
+  <a href="https://avatars.githubusercontent.com/u/62731045?s=200&v=4">
+    <img src="https://avatars.githubusercontent.com/u/62731045?s=200&v=4" alt="Logo" style="border: 2px solid #000000; border-radius: 8px; width: 8%;">
+  </a>
+</p>
 
 
