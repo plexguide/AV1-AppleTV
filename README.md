@@ -1,11 +1,5 @@
 ##### WANT TO HELP? CLICK THE ★ (STAR LOGO) in the Upper-Right! 
 
-<p align="left">
-  <a href="https://discord.gg/93PYgqDX9T">
-    <img src="https://i.imgur.com/XI1WGxi.png" alt="Menu Example" width="15%">
-  </a>
-</p>
-
 # Quick Guide on Enabling Apple TV to Play AV1 Natievly 
 
 What the tvOS.xml profile does. You can see the Apple TV playing AV1 via direct stream, not transcoding from the server
