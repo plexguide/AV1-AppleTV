@@ -22,7 +22,7 @@ My 12-year-old daughter loves singing, dancing, and exploring STEM. She’s an A
 
 [![Donate with PayPal button](https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif)](https://www.paypal.com/donate?hosted_button_id=58AYJ68VVMGSC)
 
-#### Location
+## Location
 
 The location of where to put the script is where your plex data is stored and try to find the path until you get to Profiles as seen below. Copy the script and store it as tvOS.xml
 
