@@ -16,6 +16,12 @@ I found this script a while ago, and it mentioned that the current Apple TVs (in
 
 How to deploy AV1 Transcoding and workflow info? Visit - https://github.com/plexguide/Unraid_Intel-ARC_Deployment
 
+## PayPal Donations – Building My Daughter’s Future
+
+My 12-year-old daughter loves singing, dancing, and exploring STEM. She’s an A-B honor roll student with big dreams for the future. Any donation you make will go directly toward her college fund, helping her turn those dreams into reality. Thank you for your support!
+
+[![Donate with PayPal button](https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif)](https://www.paypal.com/donate?hosted_button_id=58AYJ68VVMGSC)
+
 #### Location
 
 The location of where to put the script is where your plex data is stored and try to find the path until you get to Profiles as seen below. Copy the script and store it as tvOS.xml
